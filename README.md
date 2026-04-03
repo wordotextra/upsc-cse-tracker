@@ -1,2 +1,3 @@
-# upsc-cse-tracker
-Comprehensive UPSC CSE Exam Tracker with PYQ Database (2010-2025) - Works locally and online
+# UPSC CSE Tracker
+
+A comprehensive tracker for aspirants preparing for the UPSC Civil Services Examination (CSE). This project provides a structured way to manage preparation resources, track progress, and connect with fellow aspirants.
